@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://github.com/user-attachments/assets/08ae80f8-3a13-4652-9a32-a8153b4b7127" width="100%" />
