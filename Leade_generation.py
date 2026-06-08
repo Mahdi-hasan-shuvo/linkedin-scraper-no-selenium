@@ -113,6 +113,7 @@ class LinkedIn:
             sleep(pagination_delay)
 
 
+
 if __name__ == "__main__":
     companyID = LinkedIn.getCompanyID()
     if companyID is not None:
