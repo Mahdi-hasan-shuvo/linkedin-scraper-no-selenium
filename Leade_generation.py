@@ -4,8 +4,6 @@ import re
 import csv
 import os
 from time import sleep
-
-
 s = requests.Session()
 company_link = "https://www.linkedin.com/company/unilever/"  # target company link
 output_file_name = "leads.csv"  # output CSV excel file name
