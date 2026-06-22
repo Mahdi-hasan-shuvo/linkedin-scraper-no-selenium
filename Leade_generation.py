@@ -10,7 +10,6 @@ output_file_name = "leads.csv"  # output CSV excel file name
 pagination_delay = 5  # delay in seconds before going to the next page
 cookies = ''  # place cookie here
 
-
 class LinkedIn:
     def __init__(self):
         self.fieldnames = ["Profile Link", "Name", "Designation", "Location"]
